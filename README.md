@@ -18,7 +18,7 @@ This C++ program converts a DNA sequence into its corresponding protein sequence
 2. **Compile the Program:**
 
     ```bash
-    g++ -std=c++11 main.cpp -o dna_to_protein
+    g++ -std=c++11 TheCentralDogma.cpp -o dna_to_protein
 
 3. **Run the Program:**
 
