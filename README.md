@@ -1,4 +1,4 @@
-# DNA to Protein Converter
+# 🧬 DNA to Protein Converter 🧬
 
 This C++ program converts a DNA sequence into its corresponding protein sequence. DNA serves as the template for protein synthesis through transcription and translation, where sequences of nucleotides are transcribed into complementary mRNA sequences and then translated into sequences of amino acids. This program automates the process of translating DNA sequences into proteins, adhering to the genetic code.
 
